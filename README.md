@@ -10,5 +10,6 @@ Verdetto shows you what a code contains before anything opens, checks it for war
 - How to check a QR code link before you open it: https://verdettoqr.com/check-qr-code-link
 - Privacy policy: https://verdettoqr.com/privacy
 - Support: support@verdettoqr.com
+- Support the work (free, no ads, paid for by the people who use it): https://verdettoqr.com/support-the-work
 
 Coming soon to Google Play.
