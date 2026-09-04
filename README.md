@@ -4,7 +4,7 @@
 
 **QR & Barcode Scanner for Android.** See the link before it opens. Free, no ads, no tracking. Made for damaged codes.
 
-Verdetto shows you what a code contains before anything opens, checks it for warning signs on the phone, and compares links, sites, and wallet addresses with a list of known phishing, scam, and sanctions entries kept on the phone. It never says anything is safe: "No warnings found" means none of its checks matched, and opening is your call. It never says anything is safe: "No warnings found" means none of its checks matched, and the decision is always yours.
+Verdetto shows you what a code contains before anything opens, checks it for warning signs on the phone, and compares links, sites, and wallet addresses with a list of known phishing, scam, and sanctions entries kept on the phone. It never says anything is safe: "No warnings found" means none of its checks matched, and the decision is always yours.
 
 - Website: https://verdettoqr.com
 - How to check a QR code link before you open it: https://verdettoqr.com/check-qr-code-link
